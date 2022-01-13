@@ -27,3 +27,5 @@
        
   </div>
   
+  ## Snake
+  ![snake gif](https://github.com/SilentB0y/SilentB0y/blob/output/github-contribution-grid-snake.gif)
