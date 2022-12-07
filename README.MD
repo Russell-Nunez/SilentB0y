@@ -1,10 +1,8 @@
 ### Hi! I am SilentB0y
 
 - ☣️ I Worked like TI
-- 🌱 I’m currently learning Python and Javascript
-- 🤖 I’m looking to collaborate on projects with arduino
+- 🌱 I’m currently studying to be a fullstack developer 
 - ❤️ I’m looking for help with the principal concepts of programming
-- 💬 Ask me about bugs and things about white hat
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I do not stop, I love learning about many things every day.
 
